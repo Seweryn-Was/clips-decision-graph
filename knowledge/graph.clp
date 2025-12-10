@@ -166,7 +166,7 @@
   (transition (from q-destiny) (answer destiny-adrenaline) (to q-deathwish))
 
   ; 19. q-lovemoney: If money is what you love, then that's what you'll receive
-  (transition (from q-ilove) (answer lovemoney-continue) (to q-badfeeling))
+  (transition (from q-lovemoney) (answer lovemoney-continue) (to q-gambling))
 
   ; 23. q-deathwish: Do you have a death wish?
   (transition (from q-deathwish) (answer deathwish-yes) (to q-howdie))

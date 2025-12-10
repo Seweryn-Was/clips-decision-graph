@@ -1,0 +1,396 @@
+
+{
+  "q-start": {
+    "text": "Search your feelings. Why are you traveling?",
+    "options": {
+      "want-vacation": "Vacation? Now that's a word i havent't heard in a long, long time.",
+      "want-teleportation": "I just want to teleport off this rock."
+    }
+  },
+
+  "q-longdistance": {
+    "text": "Are you willing to travel far?",
+    "options": {
+      "longdistance-yes": "Yes",
+      "longdistance-no": "No"
+    }
+  },
+
+  "q-notry": {
+    "text": "Do or do not; there is no try",
+    "options": {
+      "notry-continue": "Continue"
+    }
+  },
+
+  "q-midichlorian": {
+    "text": "What's your midi-chlorian count?",
+    "options": {
+      "midichlorian-what": "WTF is a midi-chlorian?",
+      "midichlorian-crazy": "Off the charts",
+      "midichlorian-less": "DGAF! No mystical energy field controls my destiny."
+    }
+  },
+
+  "q-cocky": {
+    "text": "Great kid, dont't get cocky.",
+    "options": {
+      "cocky-continue": "Continue"
+    }
+  },
+
+  "q-searching": {
+    "text": "Are you serching for something or hiding from something",
+    "options": {
+      "searching-hiding": "Hiding",
+      "searching-searching": "Searching"
+    }
+  },
+
+  "q-scavenging": {
+    "text": "Searching or scavenging",
+    "options": {
+      "scavenging-scavenging": "Scavenging",
+      "scavenging-searching": "Searching"
+    }
+  },
+
+
+  "q-foradventure": {
+    "text": "For adventure?",
+    "options": {
+      "foradventure-yes": "Yes",
+      "foradventure-adv": "Adventure. Excitment. A Jedi craves not these things."
+    }
+  },
+
+  "q-bluemilk": {
+    "text": "How do you like your blue milk?",
+    "options": {
+      "bluemilk-warm": "Warm",
+      "bluemilk-Cold": "Cold"
+    }
+  },
+
+  "q-trap": {
+    "text": "It's a trap!",
+    "options": {
+      "trap-continue": "Continue"
+    }
+  },
+
+  "q-lovemoney": {
+    "text": "If money is what you love, then that's what you'll receive",
+    "options": {
+      "lovemoney-continue": "Continue"
+    }
+  },
+
+  "q-tauntaun": {
+    "text": "Don't forget your tauntaun!",
+    "options": {
+      "tauntaun-continue": "Continue"
+    }
+  },
+
+  "q-adegen": {
+    "text": "What about Adegen crystals?",
+    "options": {
+      "adegen-yeah": "Now you're talking!"
+    }
+  },
+
+
+  "q-fromwhat": {
+    "text": "From what?",
+    "options": {
+      "fromwhat-past": "The past",
+      "fromwhat-dontworry": "Don't worry about it.",
+      "fromwhat-jarjar": "Jar Jar Binks",
+      "fromwhat-slimy": "A slimy piece of worm-ridden filth"
+    }
+  },
+
+  "q-lightspeed": {
+    "text": "Lightspeed!",
+    "options": {
+      "lightspeed-continue": "Continue"
+    }
+  },
+
+  "q-gungans": {
+    "text": "Gungans no liking hot, dry weather.",
+    "options": {
+      "gungans-continue": "Continue"
+    }
+  },
+
+  "q-whathappened": {
+    "text": "What happened?",
+    "options": {
+      "whathappened-order": "Ever heard of Order 66",
+      "whathappened-remains": "I came home to the charred remains of my relatives."
+    }
+  },
+
+  "q-relieved": {
+    "text": "...but weren't you mildly relieved it meant you finally got to fly away?",
+    "options": {
+      "relieved-yes": "Yes",
+      "relieved-no": "No, I love living in a remote desert"
+    }
+  },
+
+  "q-burned": {
+    "text": "Before your house burned down, what was your favorite toy as a kid?",
+    "options": {
+      "burned-Furby": "Furby",
+      "burned-magic": "Magic 8 Ball",
+      "burned-super": "Super Soaker",
+      "burned-rc": "An RC Car",
+      "burned-chemistry": "A chemistry set"
+    }
+  },
+
+  "q-glutton": {
+    "text": "Are you a glutton for pain",
+    "options": {
+      "glutton-yes": "Yes",
+      "glutton-no": "No"
+    }
+  },
+
+  "q-fate": {
+    "text": "Which fate would you rather be dealt?",
+    "options": {
+      "fate-carbonite": "Being frozen in carbonite",
+      "fate-digested": "Being slowly digested for 1000 years"
+    }
+  },
+
+  "q-ilove": {
+    "text": "I love you",
+    "options": {
+      "ilove-know": "I know"
+    }
+  },
+
+  "q-future": {
+    "text": "True or false? Impossible to see, the future is.",
+    "options": {
+      "future-true": "True",
+      "future-false": "False"
+    }
+  },
+
+  "q-sithbastard": {
+    "text": "No vacation can heal that, you Sith bastard",
+    "options": {
+      "sithbastard-order": "Noooooooooooo!"
+    }
+  },
+
+  "q-destiny": {
+    "text": "What controls your destiny?",
+    "options": {
+      "destiny-money": "Money",
+      "destiny-love": "Love",
+      "destiny-adrenaline": "Adrenaline"
+    }
+  },
+
+  "q-deathwish": {
+    "text": "Do you have a death wish?",
+    "options": {
+      "deathwish-yes": "Yes",
+      "deathwish-no": "No"
+    }
+  },
+
+  "q-howdie": {
+    "text": "How do you want to die?",
+    "options": {
+      "howdie-explosion": "In a fiery explosion",
+      "howdie-knife": "In a knife fight"
+    }
+  },
+
+  "q-drink": {
+    "text": "Do you drink?",
+    "options": {
+      "drink-bluemilk": "Does blue milk count?",
+      "drink-yes": "Yes"
+    }
+  },
+
+  "q-clubsbars": {
+    "text": "At clubs or bars>",
+    "options": {
+      "clubsbars-clubs": "Clubs",
+      "clubsbars-bars": "bars"
+    }
+  },
+
+  "q-whatdrink": {
+    "text": "What are you ordering?",
+    "options": {
+      "whatdrink-knockback": "Knockbuck rum",
+      "whatdrink-mai": "Fireball shots",
+      "whatdrink-fireball": "Mai tai",
+      "whatdrink-oaky": "An oaky scotch"
+    }
+  },
+
+  "q-no": {
+    "text": "No",
+    "options": {
+      "no-continue": "Continue"
+    }
+  },
+
+  "q-gambling": {
+    "text": "Are you a gambling type?",
+    "options": {
+      "gambling-yes": "Yes, never tell me the odds.",
+      "gambling-no": "No"
+    }
+  },
+
+  "q-podracerslava": {
+    "text": "Podracers or lavaracers?",
+    "options": {
+      "podracerslava-podracers": "Podracers",
+      "podracerslava-lavaracers": "lavaracers"
+    }
+  },
+
+  "q-holding": {
+    "text": "Are you holding?",
+    "options": {
+      "holding-who": "Who's asking?",
+      "holding-no": "No"
+    }
+  },
+
+  "q-rethink": {
+    "text": "You may want to rethink your life choices.",
+    "options": {
+      "rethink-jedi": "Help me Obi-Wan Kenobi!",
+      "rethink-mind": "Your Jedi mind tricks don't work on me."
+    }
+  },
+
+  "q-clear": {
+    "text": "Clear your mind you must. How do you unwind?",
+    "options": {
+      "clear-oil": "Oil baths",
+      "clear-braid": "Braid my hair.",
+      "clear-music": "Listen to music",
+      "clear-sport": "Sports"
+    }
+  },
+
+  "q-playwatch": {
+    "text": "Do you play or watch?",
+    "options": {
+      "playwatch-watch": "Watch",
+      "playwatch-play": "Play"
+    }
+  },
+
+  "q-whattype": {
+    "text": "What type?",
+    "options": {
+      "whattype-pop": "Pop",
+      "whattype-rock": "Rock",
+      "whattype-instrumental": "Instrumental"
+    }
+  },
+
+  "q-john": {
+    "text": "John Williams or Danny Elfman",
+    "options": {
+      "john-john": "John Williams",
+      "john-danny": "Danny Elfman"
+    }
+  },
+
+  "q-relationship": {
+    "text": "Are you in a serious relationship?",
+    "options": {
+      "relationship-yes": "Yes",
+      "relationship-no": "No, she died giving birth to twins.",
+    	"relationship-idk": "I don't know...You think a princess and a guy like me..."
+
+		}
+  },
+	
+  "q-badfeeling": {
+    "text": "I have a bad feeling about this.",
+    "options": {
+      "badfeeling-continue": "Continue"
+    }
+  },
+
+  "q-finish": {
+    "text": "Finish the phrase: \"Fear lead to anger. Anger leads to hate. Hate leads to...\"",
+    "options": {
+      "finish-suffering": "Suffering",
+      "finish-revenge": "Revenge"
+    }
+  },
+
+  "q-kisssibling": {
+    "text": "Would you kiss your sibling to make them jealous?",
+    "options": {
+      "kisssibling-yes": "Yes",
+      "kisssibling-no": "No"
+    }
+  },
+
+  "q-regret": {
+    "text": "You're gonna regret that",
+    "options": {
+      "regret-continue": "Continue"
+    }
+  },
+	
+  "q-prisoner": {
+    "text": "The love of your life has been taken prisoner. Do you risk your life to save theirs?",
+    "options": {
+      "prisoner-no": "No, better them than me.",
+      "prisoner-detonator": "I'm already holding my detonator."
+    }
+  },
+	
+  "q-adventure": {
+    "text": "Sound like you're up for an adventure.",
+    "options": {
+      "adventure-yes": "Yes",
+      "adventure-behind": "Those days are long behind us."
+    }
+  },
+ 	
+  "q-firstshot": {
+    "text": "Who shot first?",
+    "options": {
+      "firstshot-greedo": "Greedo",
+      "firstshot-han": "Han"
+    }
+  },
+
+  "q-nope": {
+    "text": "Nope",
+    "options": {
+      "nope-han": "Han"
+    }
+  },
+
+  "q-wretched": {
+    "text": "Does a \"wretched hive of villainy and scum\" sound like a good time to you?",
+    "options": {
+      "wretched-yes": "Yes",
+      "wretched-no": "No"
+    }
+  }
+}

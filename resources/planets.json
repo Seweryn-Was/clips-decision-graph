@@ -1,0 +1,46 @@
+{
+  "dest-endor": {
+    "name": "Endor",
+    "description": "If you love a good camping trip, Endor is where you want to be. The native Ewoks have become more accustomed to visitors ever since the Battle of Endor thrust their world into the galactic spotlight. Although their cuisine is still a bit unusual, they are happy to take tourists on adventures through the woods. Galactic law allows hunting, but consult with your Ewok guides before you try to capture something like a boar-wolf."
+  },
+  "dest-naboo": {
+    "name": "Naboo",
+    "description": "Naboo isn't just a beautiful planet with an undersea society of Gungans. It's also full of beautiful ruins and museums dedicated to Outer Rim history. Learn about long-vanished species and political revolutions that changed the course of galactic affairs. Visit the capital city of Theed and learn about the planet's own stormy past, from the earliest days of human-Gungan interaction to the troubling events of Queen Amidala's reign that sparked the Clone Wars."
+  },
+  "dest-mustafar": {
+    "name": "Mustafar",
+    "description": "A fiery volcanic world where lava is mined like a precious natural resource. Don't let its drab mining outposts fool you–Mustafar offers some of the hottest thrills in the Outer Rim. The locals' favorite sport is lava-racing but it is not for the faint of heart. Be careful, though: you don't want to be out racing when a storm blows in. As you can imagine, lava storms are very dangerous events."
+  },
+  "dest-coruscant": {
+    "name": "Coruscant",
+    "description": "Coruscant has developed into an ecumenopolis, with a total of 5,127 levels of city built up from the crust. This planet is a 12-layer cake of urban sprawl, ranging from dingy underworld druggies to high-brow business people. Think of New York, Las Vegas, Hong Kong, and Tokyo all rolled into one. Whatever your imagination can conceive, you can do it in Coruscant, but it’s not going to be cheap!"
+  },
+  "dest-ryloth": {
+    "name": "Ryloth",
+    "description": "A long-time major exporter of medicinal products, Ryloth doubles as a safari destination thanks to its incredible biodiversity. Your Twi'lek guides will take you across lush valleys, thriving jungles, and breathtaking volcanoes. Tourists come from all over the galaxy to see the beautiful Floating Rock Gardens, a unique and ever-shifting geological phenomenon with all the colors of the rainbow that has dazzled visitors for generations."
+  },
+  "dest-Malastare": {
+    "name": "Malastare",
+    "description": "Podracing is very fast and very dangerous, but if you're up for it, there's no place better to attempt it than on Malastare. The planet hosts regular tournaments like the Malastare 100 and the Dug Derby. The native Dugs aren't the friendliest of beings, but if you've got the racing chops, they'll help you navigate the competition circuit. If you can make it on Malastare, you can make it anywhere."
+  },
+  "dest-moncala": {
+    "name": "Mon cala (DAC)",
+    "description": "Mon Cala, best known as the home of the gregarious species of the same name, is one of the galaxy's most beautiful SCUBA diving destinations. Its crystal-clear oceans are home to a dizzying array of species, and your Mon Calamari guide will explain how every one of them fits into the planet's tumultuous history. Time your adventure right, and you just might spot a majestic whaladon roaming the ocean planet's tranquil waters."
+  },
+  "dest-jakku": {
+    "name": "Jakku",
+    "description": "If you're an explorer at heart, you'll love the eerie shipwrecks on Jakku. They're begging to be explored and scavenged! Jakku is made up of vast, dry deserts that conceal countless valuable treasures. The hard part is finding them. The most important law on Jakku is \"finders keepers,\" so if you're clever and fast enough, you might bring home more than a cheesy hologram souvenir from this vacation."
+  },
+  "dest-ilum": {
+    "name": "Ilum",
+    "description": "If you're the prospecting type, consider a visit to icy Ilum in search of the rare kyber crystals. The legendary Jedi Knights power their lightsabers with these crystals, but you don't have to sense the Force yourself to make use of one. Their immense power means they can last a lifetime in ordinary applications like home appliances, and their rarity means they'll fetch a high price in any galactic marketplace."
+  },
+  "dest-thisisnot": {
+    "name": "Not for you",
+    "description": "This is not the flowchart you're looking for."
+  },
+  "dest-no": {
+    "name": "Noooooooooo!",
+    "description": "Nooooooooooooooooooooooooooooooo!"
+  }
+}

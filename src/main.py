@@ -17,8 +17,8 @@ def get_facts(env, template_name: str):
 
 
 def main():
-    questions = load_json("questions_pl.json")
-    planets = load_json("planets_pl.json")
+    questions = load_json("questions.json")
+    planets = load_json("planets.json")
 
     env = clips.Environment()
     env.load(os.path.join(KNOW_DIR, "types.clp"))

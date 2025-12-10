@@ -1,5 +1,3 @@
-; ---------- RULES ----------
-
 (defrule ask-question
   ?c <- (current-node (id ?nid))
   (node (id ?nid) (type question))

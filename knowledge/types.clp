@@ -1,29 +1,22 @@
-; ---------- TEMPLATES ----------
+(deftemplate state
+  (slot current))
 
-(deftemplate node
-  (slot id)
-  (slot type) ; question / destination
-)
-
-(deftemplate transition
+(deftemplate edge
   (slot from)
-  (slot answer)
-  (slot to)
-)
+  (slot opt-id)
+  (slot to))
 
-(deftemplate user-answer
-  (slot question-id)
-  (slot value)
-)
-
-(deftemplate current-node
+(deftemplate result
   (slot id)
-)
+  (slot title)
+  (slot desc))
 
-(deftemplate pending-question
-  (slot id)
-)
+(deftemplate ui-ask
+  (slot node-id))
 
-(deftemplate recommendation
-  (slot planet)
-)
+(deftemplate ui-answer
+  (slot node-id)
+  (slot opt-id))
+
+(deftemplate ui-result
+  (slot result-id))

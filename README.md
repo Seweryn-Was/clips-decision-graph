@@ -17,5 +17,5 @@ python3.13 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 python -m pip install --upgrade pip -r requirements.txt
-python src/main.py
+python main.py
 ```

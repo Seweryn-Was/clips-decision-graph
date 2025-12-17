@@ -199,4 +199,15 @@ def debug():
     )
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    import threading
+    import webbrowser
+
+    host = "127.0.0.1"
+    port = 5000
+    url = f"http://{host}:{port}/"
+
+    def open_browser():
+        webbrowser.open(url, new=1)
+
+    threading.Timer(0.6, open_browser).start()
+    app.run(host="127.0.0.1", port=5000, debug=False)

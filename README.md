@@ -15,7 +15,6 @@ git clone https://github.com/Seweryn-Was/clips-decision-graph.git
 cd clips-decision-graph
 python3.13 -m venv .venv
 source .venv/bin/activate
-python -m pip install -r requirements.txt
 python -m pip install --upgrade pip -r requirements.txt
 python main.py
 ```
